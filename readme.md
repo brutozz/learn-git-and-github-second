@@ -2,6 +2,5 @@
 
 Crash course for git
 
-/*
-    Continuing my introduction to git and github
-*/
+
+Continuing my introduction to git and github
